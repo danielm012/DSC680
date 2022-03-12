@@ -27,4 +27,5 @@
 # DSC550 
 ## Highlights the techniques learn from starting my own project and using techniques of visualization and advance statistic to get answers from the data.
 
-# Advance Visualization Folder, contains the use of different software to visualize the data: python, R, and Microsoft Power BI
+# Advance Visualization Folder 
+## contains the use of different software to visualize the data: python, R, and Microsoft Power BI for different projects.
