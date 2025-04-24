@@ -25,7 +25,7 @@
 ### The last project for the semester chosen by me, was about the companies and hiring people to position of power. 
 
 # DSC550 
-## Highlights the techniques learn from starting my own project and using techniques of visualization and advance statistic to get answers from the data.
+## Highlights the techniques learn from starting my own project and using techniques of visualization and advance statistic to get answers about areas and people moving depending on crime and taxes.
 
 # Advance Visualization Folder 
 ## contains the use of different software to visualize the data: python, R, and Microsoft Power BI for different projects.
